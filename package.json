@@ -1,6 +1,7 @@
 {
   "name": "trial-3",
   "displayName": "trial-3",
+  "publisher": "twyle",
   "description": "",
   "version": "0.0.0-development",
   "engines": {
