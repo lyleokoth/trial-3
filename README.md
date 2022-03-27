@@ -1,6 +1,6 @@
 # trial-3 README
 
-This is the README for your extension "trial-3". After writing up a brief description, we recommend including the following sections.
+This is the README for your extension "trial-3". After writing up a brief description, we recommend including the following sections. Let's create some change.
 
 ## Features
 
