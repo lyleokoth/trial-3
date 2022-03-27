@@ -46,9 +46,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NODE_AUTH_TOKEN: ${{secrets.npm_token}}
 
-    publish-marketplace:
+  publish-marketplace:
     runs-on: ubuntu-latest
-    needs: build
+    needs: [publish-npm]
 
     steps:
       - uses: actions/checkout@v2
